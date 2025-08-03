@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/MudassirkhanPathan/MudassirKhanPathan/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Mudassir Khan</h1>
 <h3 align="center">🚀 Backend Developer | Node.js | TypeScript | Database Enthusiast</h3>
 
