@@ -3,49 +3,42 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Mudassir Khan</h1>
-<h3 align="center">🚀 Backend Developer | Node.js | TypeScript | Database Enthusiast</h3>
+<h3 align="center">A passionate Backend Developer from India</h3>
 
 <p align="center">
-  <em>Code. Build. Repeat.</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFAB&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+a+Backend+Developer;Node.js+%7C+Express+%7C+MongoDB+%7C+TypeScript+Specialist;I+build+secure+%26+scalable+RESTful+APIs;Clean+Code+%7C+Performance+%7C+Auth+%26+Security;Learning+Microservices+Architecture" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **Backend Development & API Design**
-- 🌱 I’m learning **Advanced System Design, Microservices, AI Integration**
-- 💬 Ask me about **JavaScript, Node.js, Express.js, TypeScript, Databases**
-- 📫 Reach me at: **mudassirkhanpathan79@gmail.com**
-- ⚡ Fun fact: I love building scalable backends and clean APIs 🚀
+- 🔭 I’m currently working on building **scalable and secure REST APIs**
+- 🌱 I’m currently learning **Authentication, Authorization, MongoDB Aggregation, and Microservices Architecture**
+- 💬 Ask me about **Node.js, Express.js, MongoDB, TypeScript, Prisma ORM, JWT, REST APIs**
 
 ---
 
 ### 🛠 Tech Stack
+- 💻 &nbsp; **Backend:** `Node.js`, `Express.js`, `MongoDB`, `Mongoose`, `TypeScript`, `Prisma ORM`
+- ⚙️ &nbsp; **Tools:** `Postman`, `VS Code`, `Git`, `GitHub`, `Swagger`
+- 📦 &nbsp; **Database:** `MongoDB`, `NoSQL`, `Mongoose ORM`, `Mongo Compass`, `PgAdmin`
+- 🔐 &nbsp; **Security:** `JWT`, `bcryptjs`, `Helmet`, `CORS`
+- 🌐 &nbsp; **Hosting:** `Vercel`
 
-#### **Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+---
 
-#### **Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
-
-#### **Databases**
-![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-
-#### **Tools & Platforms**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-
-
-### 🌐 Connect With Me
-<p align="left">
-<a href="mailto:mudassirkhanpathan79@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/mudassirkhan"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MudassirkhanPathan&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MudassirkhanPathan&theme=radical" width="48%" />
 </p>
 
 ---
+
+### 📫 Contact Me
+- 📧 Email: `mudassirkhanpathan1@gmail.com`
+- 💼 LinkedIn: [linkedin.com/in/mudassir-khan987](https://linkedin.com/in/mudassir-khan987)
+
+---
+
+### 🚀 Let's Build Something Amazing Together!
