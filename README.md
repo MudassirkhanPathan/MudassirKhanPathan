@@ -52,7 +52,7 @@
 ---
 
 ## 📫 Contact Me
-- 📧 Email: **mudassirkhanpathan1@gmail.com**
+- 📧 Email: **mudassirkhanpathan79@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/mudassir-khan987](https://linkedin.com/in/mudassir-khan987)
 
 ---
